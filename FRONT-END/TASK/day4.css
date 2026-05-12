@@ -1,0 +1,26 @@
+:root{
+    --blue: rgb(54, 119, 176);
+    --green: rgb(41, 106, 52);
+
+}
+
+.periodic-table {
+            margin-left: 29%;
+        }
+.periodic1 {
+            margin-left: 35%;
+            margin-right: 35%;
+        }       
+.periodic1_1{
+            background-color: var(--blue);
+            color: white;
+            border: white;
+
+}
+
+.periodic1_2{
+            background-color: var(--green);
+            color: white;
+            border: white;
+
+}

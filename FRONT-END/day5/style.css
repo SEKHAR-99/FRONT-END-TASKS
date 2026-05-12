@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+
+
+/* navbar start */
+.main-nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(255, 254, 254);
+    display: flex;
+}
+
+
+.nav-logo{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(136, 7, 235);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.nav-menu{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(250, 247, 247);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.nav-button{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(14, 226, 120);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+
+
+
+
+/* navbar end */
+
+
+/* p1 start */
+
+
+.main-p1{
+    height:300px;
+    width: 100%;
+    background-color: rgb(5, 5, 219);
+    display: flex;
+}
+
+.p1-b1{
+    flex: 1;
+    height: 100%;
+    background-color: yellow;
+}
+
+
+.p1-b2{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(147, 69, 69);
+}
+
+
+
+/* p1 end */       
+
+
+/* p2 start */
+.main-p2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(137, 168, 66);
+    display: flex;
+}
+
+.p1-b3{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.p1-b4{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(116, 180, 232);
+}
+
+
+
+
+/* p2 end */
+
+
+/* p3 start */
+
+.main-p3{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(230, 12, 164);
+    display: flex;
+}
+
+.p1-b5{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(216, 154, 53);
+}
+
+.p1-b6{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(122, 84, 193);
+}
+
+.p1-b7{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(39, 112, 26);
+}
+
+
+
+/* p3 end */
+
+
+
+
+/* p4 start */
+.main-p4{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(10, 236, 213);
+    display: flex;
+}
+
+.p1-b8{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.p1-b9{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(10, 236, 213);
+}
+
+.p1-b10{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(6, 26, 247);
+}
+
+
+
+
+/* p4 end */
+
+
+
+/* p5 start */
+.main-p5{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(8, 246, 8);
+    display: flex;
+}
+
+.p1-b11{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(231, 106, 106);
+}
+
+.p1-b12{
+    flex: 1;
+    height: 100%;
+    background-color: rgb(8, 246, 8);
+}
+
+
+
+/* p5 end */
+
+
+
+/* footer start */
+.main-footer{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(132, 132, 132);
+}
+/* footer end */

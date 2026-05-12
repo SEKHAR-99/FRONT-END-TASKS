@@ -1,0 +1,33 @@
+#resume{
+    margin-left: 300px;
+    display: flex;
+    border: 2px solid;
+    width: 800px;
+}
+#left{
+    width: 30%;
+    padding: 30px;
+    background-color: rgba(217, 212, 212, 0.582);
+}
+#left img{
+    border-radius: 50%;
+
+}
+
+
+#right{
+    width: 70%;
+    padding: 30px;
+    background-color: white ;
+}
+
+#right ol{
+    border-radius: 10px;
+    background:  rgba(217, 212, 212, 0.582);
+    height: 150px;
+    padding: 20px;
+}
+
+#right ol li{
+    padding: 8px 0;
+}
